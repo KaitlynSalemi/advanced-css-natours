@@ -1,2 +1,2 @@
-# advanced-css-nators
+# advanced-css-natours
 This is a project to practice advanced CSS techniques. This project features a custom grid design and utilizes floats.
